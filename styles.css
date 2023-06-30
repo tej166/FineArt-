@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 20px;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #d893d7;
+}
+
+.jumbotron {
+  background-image: url('hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #000000;
+  text-align: center;
+  padding: 150px 0;
+  margin-bottom: 0;
+}
+
+#hero .display-4 {
+  font-size: 40px;
+}
+
+#hero .lead {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+section#about {
+  padding: 50px 0;
+}
+
+section#about h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 20px;
+}
